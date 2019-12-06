@@ -20,3 +20,4 @@ class TestNetwork:
         # self.network_page.click_neteork()
         # self.network_page.click_firstnetwork()
         self.network_page.click_3G()
+	#注释
